@@ -5,6 +5,8 @@ title: Home
 <object type="application/pdf" data="danwoodson_resume.pdf" width="1000" height="1200" ></object>
 <div id="posts">
 
+<iframe src="http://docs.google.com/gview?url=danwoodson_resume.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
   {% for post in site.posts offset: 0 limit: 10 %}
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.date | date_to_string }}
