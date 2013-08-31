@@ -184,8 +184,8 @@ footer {
 }
 
 ul {
-  -webkit-padding-start:15;
-  padding-left:15;  
+  -webkit-padding-start:15px;
+  padding-left:15px;
 }
 
 @media print, screen and (max-width: 960px) {
