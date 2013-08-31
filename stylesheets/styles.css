@@ -183,6 +183,11 @@ footer {
   bottom:50px;
 }
 
+ul {
+  -webkit-padding-start:0;
+  padding-left:0;  
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
