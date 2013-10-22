@@ -1,0 +1,58 @@
+{
+  "name": "icon-download",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "86157b2f942e37940f8702a4a3221a2b",
+      "css": "download-outline",
+      "code": 59397,
+      "src": "typicons"
+    },
+    {
+      "uid": "7yekfd0qlkgp6emwfbo10sjdmf8pewli",
+      "css": "download-3",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "815576dccc008afcfd83a38378a4fdde",
+      "css": "download-4",
+      "code": 59398,
+      "src": "iconic"
+    },
+    {
+      "uid": "acba01b26400b5e898ef20aabb2ff84d",
+      "css": "download-cloud",
+      "code": 59399,
+      "src": "iconic"
+    },
+    {
+      "uid": "kfk635sf697exf2r3jqx06zz54e1rgx4",
+      "css": "download",
+      "code": 59392,
+      "src": "modernpics"
+    },
+    {
+      "uid": "348b04ea17f646fbc6a46e20ebe4fe12",
+      "css": "download-1",
+      "code": 59393,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "61a783a38ab7b1e312fc5cd9b13fd349",
+      "css": "download-2",
+      "code": 59395,
+      "src": "elusive"
+    },
+    {
+      "uid": "05a2f4c4839012434774cc1ceb4c0f9b",
+      "css": "download-alt",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
